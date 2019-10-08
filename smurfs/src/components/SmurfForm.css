@@ -1,0 +1,15 @@
+input{
+    padding-right:5%;
+    background-color:rgb(205, 205, 255);
+    margin-right:5%;
+    margin-left:7%;
+    margin-top:10px;
+    
+    
+}
+button{
+    background-color:rgb(104, 104, 241);
+    border-radius: 5px;
+    margin-top:10px;
+    
+}
